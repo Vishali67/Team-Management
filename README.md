@@ -1,5 +1,5 @@
-# TEAM-Penmetsa Vijaya Vishali & Bhavika Jadon
-
+# TEAM-BLUE
+By: Penmetsa Vijaya Vishali & Bhavika Jadon
 Student Team Members Management App built with MERN stack.
 
 ## Installation
